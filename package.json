@@ -15,6 +15,9 @@
 		"express": "^4.17.3",
 		"express-validator": "^6.14.0",
 		"jsonwebtoken": "^8.5.1",
-		"mongoose": "^6.2.9"
+		"mongoose": "^6.2.9",
+		"passport": "^0.5.2",
+		"passport-google-oauth20": "^2.0.0",
+		"uuid": "^8.3.2"
 	}
 }
